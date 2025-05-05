@@ -1,10 +1,10 @@
 nav {
-    background-color: #ff4800;
+    background-color: #ff9328;
     padding: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: rgb(246, 202, 30);
+    color: rgb(148, 67, 0);
   }
   
   nav ul {
@@ -14,7 +14,7 @@ nav {
   }
   
   nav a {
-    color: rgb(255, 92, 92);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
   }

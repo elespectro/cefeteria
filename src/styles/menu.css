@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.menu-container {
+  text-align: left; /* Alineamos todo el contenido a la izquierda */
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.categoria {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive; /* Aplicamos la fuente */
+  color: #6f4e37;
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-align: left; /* Alineamos el título a la izquierda */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 18px;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.precio {
+  font-weight: bold;
+  color: #d2691e;
+}
