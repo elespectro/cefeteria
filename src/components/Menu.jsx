@@ -24,7 +24,7 @@ const menu = {
     { nombre: "Omelette", precio: "$120 MXN" },
     { nombre: "Huevos Estrellados", precio: "$90 MXN" }
   ],
-  chilaquilesEnchiladas: [
+  chilaquiles_y_Enchiladas: [
     { nombre: "Chilaquiles", precio: "$140 MXN" },
     { nombre: "Enchiladas Suizas", precio: "$120 MXN" }
   ],
