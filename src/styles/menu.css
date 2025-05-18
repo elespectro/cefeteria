@@ -3,12 +3,33 @@
 .menu-container {
   text-align: left; /* Alineamos todo el contenido a la izquierda */
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #fff8e7;
 }
 
 .categoria {
   margin-bottom: 20px;
 }
+
+.menu-seccion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.menu-texto {
+  text-align: left;
+  width: 60%;
+}
+
+.menu-imagen {
+  width: 35%;
+}
+
+.menu-imagen img {
+  width: 100%;
+  border-radius: 8px;
+}
+
 
 h3 {
   font-family: 'Pacifico', cursive; /* Aplicamos la fuente */
