@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .menu-container {
-  text-align: left; /* Alineamos todo el contenido a la izquierda */
+  text-align: left;
   padding: 20px;
   background-color: #fff8e7;
 }
@@ -10,33 +10,12 @@
   margin-bottom: 20px;
 }
 
-.menu-seccion {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 30px;
-}
-.menu-texto {
-  text-align: left;
-  width: 60%;
-}
-
-.menu-imagen {
-  width: 35%;
-}
-
-.menu-imagen img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-
 h3 {
-  font-family: 'Pacifico', cursive; /* Aplicamos la fuente */
+  font-family: 'Pacifico', cursive;
   color: #6f4e37;
-  font-size: 28px;
+  font-size: 26px;
   margin-bottom: 10px;
-  text-align: left; /* Alineamos el título a la izquierda */
+  text-align: left;
 }
 
 ul {
@@ -48,6 +27,7 @@ li {
   font-size: 18px;
   padding: 8px;
   border-bottom: 1px solid #ddd;
+  text-align: left;
 }
 
 .precio {
